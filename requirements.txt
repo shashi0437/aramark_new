@@ -10,7 +10,7 @@ django-readonly-field==1.0.5
 djangorestframework==3.11.0
 djongo==1.2.38
 filelock==3.0.12
-paramiko==2.7.1
+paramiko==2.10.1
 #pip==20.0.2
 #psycopg2==2.8.4
 pycparser==2.20
